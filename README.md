@@ -4,7 +4,7 @@ Tool Used:
 Microsoft Excel (Data Cleaning, Pivot Tables)
 Microsoft Excel (interactive Dashboards and Vsiualization)
 
-# Actionable Insights for Amazon Product Review Analysis
+### Actionable Insights for Amazon Product Review Analysis
 
 
 # Average discount percentage by product category:
