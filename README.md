@@ -1,4 +1,4 @@
-# DSA--Capstone-Project
+# DSA Capstone Project
 This repository contains my first capstone case study from the DSA Incubator Program, focused on Analyzing Amazon product review data using Excel and Power BI. The goal was to extract Key business insights from Customer reviews, ratings, and product pricing. 
 Tool Used:
 Microsoft Excel (Data Cleaning, Pivot Tables)
@@ -9,7 +9,7 @@ Microsoft Excel (interactive Dashboards and Vsiualization)
 
 # Average discount percentage by product category:
 
-Insight: Computers&Accessories products have a high average discounted price (815.26), and certain subcategories like PC Headsets (399) and Audio and Video Accessories (1122.57) show significant price reductions. Max discounts in this category can reach 90%.
+Insight: Computers and Accessories products have a high average discounted price (815.26), and certain subcategories like PC Headsets (399) and Audio and Video Accessories (1122.57) show significant price reductions. Max discounts in this category can reach 90%.
 
 Actionable Insight: Capitalize on the high discount rates in Computers&Accessories by promoting these deals more aggressively, especially for subcategories with compelling price points, to drive sales volume.
 
